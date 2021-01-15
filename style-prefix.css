@@ -8,6 +8,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
 
+* {
+ box-sizing: border-box;
+}
 
 body {
  margin: 0;
@@ -349,7 +352,7 @@ margin-left: 9rem;
 }
 
 .social-icon {
- height: 1.5rem;
+ height: 3rem;
  padding-right:0.75rem;
  padding-top: 1.5rem;
 }
@@ -747,7 +750,7 @@ padding-bottom: 0.8rem;
  width: 18rem;
 }
 .social-icon  {
- height: 2rem;
+ height: 4.5rem;
  padding-top: 2.5rem;
  padding-right: 1.5rem;
 }}
