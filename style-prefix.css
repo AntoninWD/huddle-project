@@ -192,11 +192,10 @@ height: 10rem;
 
 .top-background__grow {
  background: url(images/bg-section-top-mobile-1.svg);
- /* background-size: 110% 110%; */
  background-position: center; 
  background-repeat: no-repeat; 
  background-size: cover;
- height: 12rem;
+ height: 11.5rem;
 }
 
 .grow {
@@ -206,14 +205,18 @@ height: 10rem;
 
  .bottom-background__grow {
  background: url(images/bg-section-bottom-mobile-1.svg);
- background-size: 100% 100%;
- height: 3.2rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 8rem;
 }
 
 .top-background__user {
  background: url(images/bg-section-top-mobile-2.svg);
- background-size: 100% 100%;
- height: 6.4rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 11.2rem;
 }
 .user {
  background-color: hsl(207, 100%, 98%);
@@ -222,8 +225,10 @@ height: 10rem;
 }
  .bottom-background__user {
  background: url(images/bg-section-bottom-mobile-2.svg);
- background-size: 100% 100%;
- height: 6rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 11.2rem;
 }
 
                                 /* READY SECTION ! */
@@ -269,8 +274,10 @@ footer a {
 
 .top-background__newsletter {
  background: url(images/bg-footer-top-mobile.svg);
- background-size: 100% 100%;
- height: 3.6rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 8rem;
 }
 
 .newsletter {
@@ -585,8 +592,10 @@ height: 24rem;
 
 .top-background__grow {
  background: url(images/bg-section-top-desktop-1.svg);
- background-size: 100% 100%;
- height: 10.3rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 15rem;
 }
 
 .grow {
@@ -598,14 +607,18 @@ height: 24rem;
 
  .bottom-background__grow {
  background: url(images/bg-section-bottom-desktop-1.svg);
- background-size: 100% 100%;
- height: 8rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 16rem;
 }
 
 .top-background__user {
  background: url(images/bg-section-top-desktop-2.svg);
- background-size: 100% 100%;
- height: 9rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 13rem;
 }
 .user {
  background-color: hsl(207, 100%, 98%);
@@ -615,9 +628,10 @@ height: 24rem;
 }
  .bottom-background__user {
  background: url(images/bg-section-bottom-desktop-2.svg);
- background-size: 100% 100%;
- height: 10rem;
- width: 100%;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 11rem;
 }
 
 .flowing-part {
@@ -699,8 +713,10 @@ footer p {
 
 .top-background__newsletter {
  background: url(images/bg-footer-top-desktop.svg);
- background-size: 100% 100%;
- height: 9rem;
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 13rem;
 }
 
 .newsletter {
