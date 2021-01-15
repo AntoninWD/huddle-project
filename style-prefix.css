@@ -192,7 +192,7 @@ height: 10rem;
 
 .top-background__grow {
  background: url(images/bg-section-top-mobile-1.svg);
- background-size: 100% 100%;
+ background-size: 110% 110%;
  height: 6rem;
 }
 
@@ -316,7 +316,7 @@ font-size: 0.9rem;
 font-weight: 600;
 margin-top: 1rem;
 font-family: inherit;
-margin-left: 8.75rem;
+margin-left: 8.7rem;
 }
 
 .newsletter button:hover,
