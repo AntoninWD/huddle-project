@@ -192,8 +192,11 @@ height: 10rem;
 
 .top-background__grow {
  background: url(images/bg-section-top-mobile-1.svg);
- background-size: 110% 110%;
- height: 6rem;
+ /* background-size: 110% 110%; */
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover;
+ height: 12rem;
 }
 
 .grow {
